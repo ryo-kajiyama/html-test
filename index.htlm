@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <tatle>HTMLのサンプル</tatle>
+    </head>
+    <body  
+        <p>これは簡単なHTMLのサンプルです</p>
+        <p>追加のテストです</p>
+    </body>
+</html>
